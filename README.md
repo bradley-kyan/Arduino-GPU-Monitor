@@ -3,5 +3,5 @@ Displays basic GPU information on an arduino lcd display
 
 ## Requirements
 
-> Arduino Uno
-> Arduino LCD shield
+> * Arduino Uno
+>  * Arduino LCD shield
